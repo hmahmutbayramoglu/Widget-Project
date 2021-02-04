@@ -1,0 +1,15 @@
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\Masaüstü_Uygulaması.exe.config
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\Masaüstü_Uygulaması.exe
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\Masaüstü_Uygulaması.pdb
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.csprojAssemblyReference.cache
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.Form1.resources
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.Properties.Resources.resources
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.csproj.GenerateResource.cache
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.csproj.CopyComplete
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.exe
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.pdb
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\HtmlAgilityPack.dll
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\bin\Debug\HtmlAgilityPack.xml
+C:\Users\WIN7\source\repos\Masaüstü_Uygulaması\Masaüstü_Uygulaması\obj\Debug\Masaüstü_Uygulaması.csproj.CoreCompileInputs.cache
